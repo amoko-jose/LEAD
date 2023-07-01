@@ -27,5 +27,4 @@ skills:
   * <a href='https://soundcloud.com/refugee-youth-podcast?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing'>The refugee Youth Podcast</a> \n
   "}
 
----
-I am the co-founder of the Refugee Youth Podcast which is a Youth led media platform for sharing Refugee Stories and training youth to engage in media under the Youth Empowerment Foundation.
+--Amoko Joseph is the co-founder of the Refugee Youth Podcast which is a Youth led media platform for sharing Refugee Stories and training youth to engage in media under the Youth Empowerment Foundation.
